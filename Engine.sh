@@ -89,7 +89,7 @@ for ip in $(cat $IPLIST2)
 
 do
 
-timeout 4 adb -s $ip shell pm uninstall com.ufo.miner
+timeout 4 adb -s $ip shell ping google.com
 
 done
 
