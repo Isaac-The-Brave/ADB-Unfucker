@@ -1,0 +1,101 @@
+213.231.169.94	5555		Android Debug Bridge\nName: cvt_mt5863_eu\nModel: SMART_TV\nDevice: cvt_mt5863_eu\n	
+121.145.13.251	5555		Android Debug Bridge\nName: Pixel 2\nModel: Pixel 2\nDevice: aosp\n	
+42.98.207.113	5555	42-98-207-113.static.netvigator.com	Android Debug Bridge\nName: dolphin_fvd_p1\nModel: Global_Edition_S800\nDevice: dolphin-fvd-p1\n	
+82.197.255.99	5555	user99.82-197-255.netatonce.net	Android Debug Bridge\nName: Hi3718CV100\nModel: HiSTBAndroidV5 Hi3718CV100\nDevice: Hi3718CV100\n	
+191.47.21.212	5555	191-47-21-212.user3p.veloxzone.com.br	Android Debug Bridge\nName: rtd298x_tv001\nModel: smart_tv001\nDevice: rtd298x_tv001\n	
+58.152.204.138	5555	n058152204138.netvigator.com	Android Debug Bridge\nName: dolphin_fvd_p2\nModel: s900\nDevice: dolphin-fvd-p1\n	
+200.199.121.178	5555		Android Debug Bridge\nName: rtd289x_tv001\nModel: tv001 on rtd289x\nDevice: rtd289x_tv001\n	
+118.41.66.221	5555		Android Debug Bridge\nName: p212\nModel: TX5 Pro\nDevice: p212\n	
+181.136.249.54	5555	hfc-181-136-249-54.une.net.co	Android Debug Bridge\nName: RealtekATV\nModel: RealtekATV\nDevice: RealtekATV\n	
+87.110.125.252	5555		Android Debug Bridge\nName: dream2ltexx\nModel: SM-G955F\nDevice: dream2lte\n	
+75.154.241.168	5555	d75-154-241-168.bchsia.telus.net	Android Debug Bridge\nName: p212\nModel: DroidMedia Solutions\nDevice: p212\n	
+5.104.38.92	5555		Android Debug Bridge\nName: CH-HW338-DTV-00-00_PB803\nModel: CH-HW338-DTV-00-00\nDevice: CH-HW338-DTV-00-00_PB803\n	
+92.49.182.85	5555		Android Debug Bridge\nName: aosp_dexp\nModel: U43D9100K PNL_72001471YTK_LC430EGY_SJM1\nDevice: dexp\n	
+94.248.8.189	5555	94-248-8-189.dynamic.peoplenet.ua	Android Debug Bridge\nName: ctl_iptv_mrvl\nModel: 43FK30G\nDevice: ctl_iptv_mrvl\n	
+72.195.130.225	5555	ip72-195-130-225.ri.ri.cox.net	Android Debug Bridge\nName: p281\nModel: TX3 Mini\nDevice: p281\n	
+211.230.46.136	5555		Android Debug Bridge\nName: SM-G925L\nModel: SM-G925L\nDevice: aosp\n	
+113.252.144.224	5555	224-144-252-113-on-nets.com	Android Debug Bridge\nName: EBONY_V310\nModel: 32PHF5282_T3_8THP\nDevice: EBONY\n	
+121.236.129.158	5555	158.129.236.121.broad.sz.js.dynamic.163data.com.cn	Android Debug Bridge\nName: Hi3798MV300\nModel: V25\nDevice: Hi3798MV300\n	
+114.44.172.223	5555	114-44-172-223.dynamic-ip.hinet.net	Android Debug Bridge\nName: ghost_retasia\nModel: XT1052\nDevice: ghost\n	
+182.155.220.118	5555	182-155-220-118.veetime.com	Android Debug Bridge\nName: dolphin_fvd_p1\nModel: EVPAD-TW-MAX\nDevice: dolphin-fvd-p1\n	
+14.58.121.2	5555		Android Debug Bridge\nName: SM-N950N\nModel: SM-N950N\nDevice: x86\n	
+218.149.155.168	5555		Android Debug Bridge\nName: Galaxy S8 (SM-G950N)\nModel: Galaxy S8 (SM-G950N)\nDevice: aosp\n	
+151.76.155.185	5555		Android Debug Bridge\nName: rk3318\nModel: R1 PLUS\nDevice: rk3318\n	
+46.109.243.147	5555		Android Debug Bridge\nName: rk3318\nModel: H96Max RK3318\nDevice: rk3318\n	
+77.123.164.253	5555	77-123-164-253.lvv.volia.net	Android Debug Bridge\nName: rk3318\nModel: H96 Max RK3318\nDevice: rk3318\n	
+37.229.205.226	5555	37-229-205-226.broadband.kyivstar.net	Android Debug Bridge\nName: m201\nModel: OzoneHD\nDevice: m201\n	
+220.125.57.175	5555		Android Debug Bridge\nName: ghost_retasia\nModel: XT1052\nDevice: ghost\n	
+125.136.240.186	5555		Android Debug Bridge\nName: Pixel 2\nModel: Pixel 2\nDevice: aosp\n	
+119.237.30.16	5555	n11923730016.netvigator.com	Android Debug Bridge\nName: petrel_fvd_p1\nModel: EVPAD-3S\nDevice: petrel-p1\n	
+112.164.80.38	5555		Android Debug Bridge\nName: google Pixel 2\nModel: google Pixel 2\nDevice: aosp\n	
+186.93.137.156	5555	186-93-137-156.genericrev.cantv.net	Android Debug Bridge\nName: android_x86\nModel: Intel powered classmate PC\nDevice: x86\n	
+190.211.0.113	5555		Android Debug Bridge\nName: rk322x_box\nModel: VQ\nDevice: rk322x_box\n	
+112.165.254.30	5555		Android Debug Bridge\nName: rk31sdk\nModel: RKM MK902\nDevice: rk31sdk\n	
+58.153.204.112	5555	n058153204112.netvigator.com	Android Debug Bridge\nName: mtk_mt5882\nModel: Generic Android on mt5882\nDevice: mt5882\n	
+180.95.177.232	5555		Android Debug Bridge\nName: TVV100L\nModel: TVV100L\nDevice: TVV100L\n	
+180.69.180.226	5555		Android Debug Bridge\nName: BHXUH600\nModel: BHX-UH600\nDevice: BHX-UH600\n	
+187.163.175.119	5555	187-163-175-119.static.axtel.net	Android Debug Bridge\nName: iot_rpi3\nModel: iot_rpi3\nDevice: rpi3\n	
+177.199.174.206	5555	177-199-174-206.user.vivozap.com.br	Android Debug Bridge\nName: Device\nModel: Device\nDevice: Device\n	
+119.201.156.129	5555		Android Debug Bridge\nName: SM-A520L\nModel: SM-A520L\nDevice: x86\n	
+1.169.174.99	5555	1-169-174-99.dynamic-ip.hinet.net	Android Debug Bridge\nName: OnePlus3\nModel: ONEPLUS A3010\nDevice: OnePlus3T\n	
+191.23.109.137	5555	191-23-109-137.user.vivozap.com.br	Android Debug Bridge\nName: rtd298x_tv001\nModel: smart_tv001\nDevice: rtd298x_tv001\n	
+149.34.17.234	5555	cli-952211ea.wholesale.adamo.es	Android Debug Bridge\nName: p281\nModel: TX3 Max\nDevice: p281\n	
+58.115.229.212	5555	host-58-115-229-212.dynamic.kbtelecom.net	Android Debug Bridge\nName: vivo y27\nModel: vivo y27\nDevice: aosp\n	
+121.126.248.130	5555		Android Debug Bridge\nName: Galaxy S8 (SM-G950N)\nModel: Galaxy S8 (SM-G950N)\nDevice: x86\n	
+191.14.117.247	5555	191-14-117-247.user.vivozap.com.br	Android Debug Bridge\nName: stvs9\nModel: Quad-Core Enjoy TV Box\nDevice: stvs9\n	
+121.131.198.206	5555		Android Debug Bridge\nName: AKA\nModel: AKA\nDevice: aosp\n	
+111.240.11.98	5555	111-240-11-98.dynamic-ip.hinet.net	Android Debug Bridge\nName: aosp_mangosteen\nModel: 65T\nDevice: mangosteen\n	
+1.36.224.82	5555	1-36-224-082.static.netvigator.com	Android Debug Bridge\nName: rk322x_box\nModel: rk322x-box\nDevice: rk322x_box\n	
+175.116.232.254	5555		Android Debug Bridge\nName: taimen\nModel: PIXEL 2 XL\nDevice: taimen\n	
+118.40.222.39	5555		Android Debug Bridge\nName: taimen\nModel: PIXEL 2 XL\nDevice: taimen\n	
+160.242.63.86	5555		Android Debug Bridge\nName: rk3288\nModel: rk3288\nDevice: rk3288\n	
+121.147.106.130	5555		Android Debug Bridge\nName: full_tcc8930st\nModel: AVP S20\nDevice: tcc8930st\n	
+203.218.66.146	5555	pcd276146.netvigator.com	Android Debug Bridge\nName: petrel_fvd_p1\nModel: EVPAD-3PRO\nDevice: petrel-p1\n	
+118.141.96.202	5555	sr-202-96-141-118-on-nets.com	Android Debug Bridge\nName: p281\nModel: Hybrid 2\nDevice: p281\n	
+124.152.35.6	5555		Android Debug Bridge\nName: HISI1001\nModel: HISI1001\nDevice: HISI1001\n	
+112.120.141.132	5555	n112120141132.netvigator.com	Android Debug Bridge\nName: p281\nModel: Hybrid 2\nDevice: p281\n	
+61.76.93.190	5555		Android Debug Bridge\nName: SM-G950N\nModel: SM-G950N\nDevice: aosp\n	
+223.240.15.228	5555		Android Debug Bridge\nName: sm-j710f\nModel: sm-j710f\nDevice: aosp\n	
+114.25.54.133	5555	114-25-54-133.dynamic-ip.hinet.net	Android Debug Bridge\nName: Hi3798MV100\nModel: Hi3798MV100\nDevice: Hi3798MV100\n	
+112.146.94.13	5555		Android Debug Bridge\nName: SM-G920S\nModel: SM-G920S\nDevice: aosp\n	
+219.70.5.59	5555	219-70-5-59.twt1.com.tw	Android Debug Bridge\nName: aosp_mangosteen\nModel: 65T\nDevice: mangosteen\n	
+190.219.120.25	5555	cpe-98fc11c1f6cd.cpe.cableonda.net	Android Debug Bridge\nName: CVTE_MSD338_512M_PB802\nModel: CVTE_MSD338_512M\nDevice: CVTE_MSD338_512M_PB802\n	
+220.142.191.89	5555	220-142-191-89.dynamic-ip.hinet.net	Android Debug Bridge\nName: oppo a53m\nModel: oppo a53m\nDevice: aosp\n	
+36.238.142.179	5555	36-238-142-179.dynamic-ip.hinet.net	Android Debug Bridge\nName: hlteuc\nModel: SAMSUNG-SM-N900A\nDevice: hlteatt\n	
+58.153.237.119	5555	n058153237119.netvigator.com	Android Debug Bridge\nName: rk3328_box\nModel: BOSSTV-V2\nDevice: rk3328_box\n	
+1.64.99.101	5555	1-64-99-101.static.netvigator.com	Android Debug Bridge\nName: Hi3798MV100\nModel: Hi3798MV100\nDevice: Hi3798MV100\n	
+112.166.63.220	5555		Android Debug Bridge\nName: p212\nModel: TX5\nDevice: p212\n	
+78.209.57.87	5555	loe72-1-78-209-57-87.fbx.proxad.net	Android Debug Bridge\nName: galilei\nModel: GTKing\nDevice: galilei\n	
+203.217.121.129	5555	203-217-121-129.veetime.com	Android Debug Bridge\nName: RT_A3\nModel: RT_A3\nDevice: RT_A3\n	
+195.174.155.238	5555		Android Debug Bridge\nName: bennet_dvb32\nModel: Android Smart Ekran\nDevice: bennet\n	
+210.219.178.163	5555		Android Debug Bridge\nName: taimen\nModel: PIXEL 2 XL\nDevice: taimen\n	
+116.241.64.162	5555		Android Debug Bridge\nName: dolphin_fvd_p1\nModel: EVPAD-PRO-T\nDevice: dolphin-fvd-p1\n	
+1.36.163.39	5555	1-36-163-039.static.netvigator.com	Android Debug Bridge\nName: dolphin_fvd_p1\nModel: Global_Edition_S800\nDevice: dolphin-fvd-p1\n	
+37.235.146.235	5555	37-235-146-235.dynamic.customer.lanta.me	Android Debug Bridge\nName: RealtekATV\nModel: Smart41\nDevice: RealtekATV\n	
+61.73.93.33	5555		Android Debug Bridge\nName: taimen\nModel: PIXEL 2 XL\nDevice: taimen\n	
+114.225.68.157	5555		Android Debug Bridge\nName: CVTE_Hi3751V510_1024M\nModel: HiDPTAndroid_Hi3751V510\nDevice: CVTE_Hi3751V510_1024M\n	
+219.76.161.46	5555	n219076161046.netvigator.com	Android Debug Bridge\nName: petrel_fvd_p1\nModel: BOSSTV_V3_Pro\nDevice: petrel-p1\n	
+209.197.29.185	5555	unknown.hwng.net	Android Debug Bridge\nName: SVP4KHDTV15_UC\nModel: BRAVIA 2015\nDevice: SVP-4KHDTV15\n	
+213.102.91.40	5555	c213-102-91-40.bredband.comhem.se	Android Debug Bridge\nName: p281\nModel: TX6\nDevice: p281\n	
+179.166.23.229	5555	179-166-23-229.user.vivozap.com.br	Android Debug Bridge\nName: msm8909\nModel: N5\nDevice: msm8909\n	
+114.39.189.152	5555	114-39-189-152.dynamic-ip.hinet.net	Android Debug Bridge\nName: ghost_retasia\nModel: XT1052\nDevice: ghost\n	
+203.189.253.122	5555		Android Debug Bridge\nName: QezyTV Remotely Managed STB\nModel: HD700\nDevice: QezyTV\n	
+179.146.135.58	5555	179-146-135-58.user.vivozap.com.br	Android Debug Bridge\nName: msm8909\nModel: N5\nDevice: msm8909\n	
+112.87.227.16	5555		Android Debug Bridge\nName: JSLT_OTT\nModel: G2-40\nDevice: JSLT_OTT\n	
+190.206.16.234	5555	190-206-16-234.dyn.dsl.cantv.net	Android Debug Bridge\nName: hlteuc\nModel: SAMSUNG-SM-N900A\nDevice: hlteatt\n	
+46.130.18.30	5555	30.18.130.46.in-addr.mts.am	Android Debug Bridge\nName: full_cm10\nModel: FX\nDevice: cm10\n	
+123.151.144.247	5555		Android Debug Bridge\nName: android_x86_64\nModel: VirtualBox\nDevice: x86_64\n	
+219.77.32.99	5555	n219077032099.netvigator.com	Android Debug Bridge\nName: rk3328_box\nModel: BOSSTV-V2\nDevice: rk3328_box\n	
+61.227.16.148	5555	61-227-16-148.dynamic-ip.hinet.net	Android Debug Bridge\nName: ghost_retasia\nModel: XT1052\nDevice: ghost\n	
+78.84.43.157	5555		Android Debug Bridge\nName: p281\nModel: TX3 Max\nDevice: p281\n	
+119.236.213.59	5555	n119236213059.netvigator.com	Android Debug Bridge\nName: dolphin_fvd_p1\nModel: Global_Edition_S800\nDevice: dolphin-fvd-p1\n	
+222.102.179.189	5555		Android Debug Bridge\nName: A95X_R1_SSV6051P\nModel: A95X_R1\nDevice: A95X_R1_SSV6051P\n	
+93.77.123.227	5555	93-77-123-227.dynamic-FTTB.kharkov.volia.com	Android Debug Bridge\nName: ctl_iptv_mrvl\nModel: SRT32HA\nDevice: ctl_iptv_mrvl\n	
+151.177.243.246	5555	c151-177-243-246.bredband.comhem.se	Android Debug Bridge\nName: m8s+\nModel: m8s+\nDevice: m8s_plus\n	
+219.73.103.29	5555	n219073103029.netvigator.com	Android Debug Bridge\nName: petrel_fvd_p1\nModel: EVPAD-3PRO\nDevice: petrel-p1\n	
+133.142.241.130	5555	130.241.142.133.rev.iijmobile.jp	Android Debug Bridge\nName: ghost_retasia\nModel: XT1052\nDevice: ghost\n	
+188.190.230.38	5555	unallocated.sta.lan.ua	Android Debug Bridge\nName: KIVI TV\nModel: 40F600GU\nDevice: KiviTv\n	
+42.98.71.129	5555	42-98-71-129.static.netvigator.com	Android Debug Bridge\nName: Vision_TV\nModel: LTDN50K680HK3DU\nDevice: mtk5327\n	
+24.46.117.21	5555	ool-182e7515.dyn.optonline.net	Android Debug Bridge\nName: rk3318\nModel: N1 Max\nDevice: rk3318\n	
+77.110.6.38	5555		Android Debug Bridge\nName: Hi3718CV100\nModel: HiSTBAndroidV5 Hi3718CV100\nDevice: Hi3718CV100\n	
+
