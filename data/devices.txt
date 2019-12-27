@@ -1,7 +1,0 @@
-List of devices attached 
-82.197.255.99:5555     device product:Hi3718CV100 model:HiSTBAndroidV5_Hi3718CV100 device:Hi3718CV100
-179.146.135.58:5555    device product:msm8909 model:N5 device:msm8909
-217.16.234.12:5555     device product:rk31sdk model:C2000 device:rk31sdk
-112.87.227.16:5555     device product:JSLT_OTT model:G2_40 device:JSLT_OTT
-112.166.113.113:5555   device product:A95X_R1_SSV6051P model:F1 device:A95X_R1_SSV6051P
-
