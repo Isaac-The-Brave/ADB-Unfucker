@@ -12,4 +12,5 @@ Deleting this file isn't necessary, just don't.
 
 # Let it run till the end, do not run it too often
 Few tweaks can be made to add an apk to install and run (This can be something malicious) or you can use it to acquire a large list
-of ip addresses and do a coordinated DOS attack. 
+of ip addresses and do a coordinated DDOS attack using nothing but ADB commands. 
+
