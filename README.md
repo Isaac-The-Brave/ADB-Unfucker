@@ -1,5 +1,5 @@
-# ADB-Unfudger
-A script that connects to Anrdoid Debug Bridges in the wild and removes a common botnet
+# ADB-Purifier
+A script that connects to Anrdoid Debug Bridges in the wild and removes a common crypto malware
 
 # Requirements 
 This is a bash script, it needs shodan and android debug tools installed, beyond that, patience, if you have no errors, it's running. Trust CLI!
